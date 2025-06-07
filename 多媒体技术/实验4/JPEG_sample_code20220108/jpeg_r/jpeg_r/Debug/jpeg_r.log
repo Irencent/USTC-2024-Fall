@@ -1,0 +1,24 @@
+﻿  jpg_r.cpp
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(132,12): warning C4018: “<”: 有符号/无符号不匹配
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(117,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(121,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(122,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(131,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(139,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(98,10): warning C4101: “k”: 未引用的局部变量
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(98,8): warning C4101: “j”: 未引用的局部变量
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(213,14): warning C4018: “<”: 有符号/无符号不匹配
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(198,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(202,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(203,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(212,3): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(220,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(160,10): warning C4101: “k”: 未引用的局部变量
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(266,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(276,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(317,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(318,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(350,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(351,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\jpg_r.cpp(304,7): warning C4101: “str_tar”: 未引用的局部变量
+  jpeg_r.vcxproj -> E:\研究生\课程\助教\多媒体技术基础\2021\实验\实验九 JPEG静图像压缩\JPEG编码_20220106\jpeg_r\Debug\jpeg_r.exe

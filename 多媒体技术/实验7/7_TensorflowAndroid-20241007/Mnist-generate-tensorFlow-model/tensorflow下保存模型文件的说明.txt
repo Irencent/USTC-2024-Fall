@@ -1,0 +1,23 @@
+#中国科学技术大学  信息科学技术学院  电子工程与信息科学系  2018
+#本科生《多媒体技术》课程实验：Android手机上使用tensorflow模型
+#原有《多媒体技术》课程的实验的各个项目都是在Microsoft Visual Studio的Visual C++ 6.0下开发，可以运行在Windows操作系统下。
+#随着智能手机在诸多场合取代了PC机的作用，我们重新考虑原有课程实验项目设置的合理性。
+#        2018年尝试性将Android下多媒体技术开发的内容放入课程实验。
+#        示例代码仅用于教学，代码中对网络上已有代码引用时做了标注。
+#        cxh@ustc.edu.cn,20181022
+
+#本代码内容根据 
+https://blog.csdn.net/guyuealian/article/details/79672257 
+https://blog.csdn.net/luanpeng825485697/article/details/79100008代码整理
+#在此感谢分享代码的博客专家，希望同学们通过对本例程的学习了解利用tensorflow生成并保存模型的基本步骤
+
+#本代码配合实验项目《Android手机上使用tensorflow模型》
+
+##############################################
+#### mnist-prediction.py
+#### mnist-train.py
+CSDN. 将tensorflow训练好的模型移植到Android (MNIST手写数字识别) [Online]. Available: https://blog.csdn.net/guyuealian/article/details/79672257
+
+##############################################
+#### mnist_test.py
+CSDN. python深度学习库tensorflow——实现FC卷积神经网络识别mnist手写体 [Online]. Available: https://blog.csdn.net/luanpeng825485697/article/details/79100008
